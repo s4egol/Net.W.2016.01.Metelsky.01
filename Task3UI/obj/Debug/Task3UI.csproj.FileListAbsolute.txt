@@ -1,0 +1,6 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\bin\Debug\Task3UI.exe.config
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\bin\Debug\Task3UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\bin\Debug\Task3UI.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\bin\Debug\Task3.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\obj\Debug\Task3UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task3UI\obj\Debug\Task3UI.pdb

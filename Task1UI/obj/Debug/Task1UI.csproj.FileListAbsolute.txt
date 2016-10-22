@@ -1,8 +1,0 @@
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\bin\Debug\Task1UI.exe.config
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\bin\Debug\Task1UI.exe
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\bin\Debug\Task1UI.pdb
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\bin\Debug\Task1.dll
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\bin\Debug\Task1.pdb
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\obj\Debug\Task1UI.csprojResolveAssemblyReference.cache
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\obj\Debug\Task1UI.exe
-C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task1UI\obj\Debug\Task1UI.pdb

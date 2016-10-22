@@ -1,0 +1,8 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\bin\Debug\Task4UI.exe.config
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\bin\Debug\Task4UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\bin\Debug\Task4UI.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\bin\Debug\Task4.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\bin\Debug\Task4.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\obj\Debug\Task4UI.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\obj\Debug\Task4UI.exe
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4UI\obj\Debug\Task4UI.pdb

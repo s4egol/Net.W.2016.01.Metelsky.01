@@ -1,0 +1,5 @@
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4\bin\Debug\Task4.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4\bin\Debug\Task4.pdb
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4\obj\Debug\Task4.dll
+C:\Users\s4egol\Desktop\EPAM\Net.W.2016.01.Metelsky.01\Task4\obj\Debug\Task4.pdb
